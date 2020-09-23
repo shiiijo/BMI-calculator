@@ -1,4 +1,5 @@
-# bmi_calculator #App Demo
+# bmi_calculator
+App Demo on ios
 
 ![4g05ob](https://user-images.githubusercontent.com/68919917/94034907-25fc1300-fde0-11ea-9799-934334a807fe.gif)
 
