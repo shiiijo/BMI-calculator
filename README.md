@@ -1,5 +1,6 @@
 # bmi_calculator
-App Demo on ios
+#App Demo on ios
+
 calculates BMI of person using given paramters and displays result to user.
 
 ![4goel3](https://user-images.githubusercontent.com/68919917/94572392-99919a80-028e-11eb-91d1-7c9819f18d1d.gif)
